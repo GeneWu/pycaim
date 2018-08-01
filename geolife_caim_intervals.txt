@@ -1,0 +1,281 @@
+Column: f_1
+        CAIM Value: 565.568421
+        Intervals: [  0.00000000e+00   2.50000000e-05   1.37000000e-04   3.97000
+000e+01]
+Column: f_10
+        CAIM Value: 635.317330
+        Intervals: [  0.00000000e+00   1.72000000e-04   7.73000000e-03   3.60000
+000e+02]
+Column: f_11
+        CAIM Value: 582.549598
+        Intervals: [ -5.08000000e-02  -1.22000000e-04  -2.00000000e-05   3.97000
+000e+01]
+Column: f_12
+        CAIM Value: 554.823887
+        Intervals: [ -3.86000000e-02  -6.20000000e-05  -4.50000000e-05   3.97000
+000e+01]
+Column: f_13
+        CAIM Value: 527.364666
+        Intervals: [ -6.62000000e-03  -3.00000000e-05  -5.00000000e-06   3.97000
+000e+01]
+Column: f_14
+        CAIM Value: 517.622560
+        Intervals: [ -4.34000000e-03  -9.80000000e-05  -6.20000000e-05   3.97000
+000e+01]
+Column: f_15
+        CAIM Value: 508.451473
+        Intervals: [ -1.60000000e-03  -5.10000000e-05   3.00000000e-06   3.97000
+000e+01]
+Column: f_16
+        CAIM Value: 526.646067
+        Intervals: [ -5.11000000e-04   3.00000000e-06   1.10000000e-05   3.97000
+000e+01]
+Column: f_17
+        CAIM Value: 551.245523
+        Intervals: [ -3.60000000e-05   4.00000000e-06   2.90000000e-05   3.97000
+000e+01]
+Column: f_18
+        CAIM Value: 575.473287
+        Intervals: [ -8.00000000e-06   4.30000000e-05   7.10000000e-05   3.97000
+000e+01]
+Column: f_19
+        CAIM Value: 586.970084
+        Intervals: [  0.00000000e+00   1.80000000e-05   1.10000000e-04   3.97000
+000e+01]
+Column: f_2
+        CAIM Value: 644.466871
+        Intervals: [  0.00000000e+00   2.70000000e-05   7.80000000e-05   3.97000
+000e+01]
+Column: f_20
+        CAIM Value: 603.843090
+        Intervals: [  0.00000000e+00   8.90000000e-05   7.59000000e-03   3.60000
+000e+02]
+Column: f_21
+        CAIM Value: 498.707584
+        Intervals: [  0.00000000e+00   5.00000000e-07   2.62000000e-04   3.96000
+000e+01]
+Column: f_22
+        CAIM Value: 507.926828
+        Intervals: [  0.00000000e+00   5.00000000e-07   8.90000000e-05   3.96000
+000e+01]
+Column: f_23
+        CAIM Value: 511.704455
+        Intervals: [  0.00000000e+00   1.00000000e-06   8.60000000e-05   3.96000
+000e+01]
+Column: f_24
+        CAIM Value: 508.963347
+        Intervals: [  0.00000000e+00   2.00000000e-06   1.12000000e-04   3.96000
+000e+01]
+Column: f_25
+        CAIM Value: 505.403697
+        Intervals: [  0.00000000e+00   1.00000000e-06   1.34000000e-04   3.92000
+000e-03]
+Column: f_26
+        CAIM Value: 508.328219
+        Intervals: [  0.00000000e+00   9.40000000e-05   1.58000000e-04   3.96000
+000e+01]
+Column: f_27
+        CAIM Value: 512.674886
+        Intervals: [ 0.        0.000172  0.000281  0.00776 ]
+Column: f_28
+        CAIM Value: 512.376261
+        Intervals: [  0.00000000e+00   2.37000000e-04   4.86000000e-04   3.96000
+000e+01]
+Column: f_29
+        CAIM Value: 517.135522
+        Intervals: [  0.00000000e+00   4.61000000e-04   9.72000000e-04   3.96000
+000e+01]
+Column: f_3
+        CAIM Value: 699.633603
+        Intervals: [  0.00000000e+00   3.10000000e-05   8.10000000e-05   3.97000
+000e+01]
+Column: f_30
+        CAIM Value: 575.969429
+        Intervals: [  0.00000000e+00   1.25000000e-04   1.34000000e-02   5.41000
+000e+02]
+Column: f_31
+        CAIM Value: 675.722324
+        Intervals: [  0.      0.961   0.996  39.6  ]
+Column: f_32
+        CAIM Value: 771.200224
+        Intervals: [  0.      0.974   0.983  39.6  ]
+Column: f_33
+        CAIM Value: 831.523946
+        Intervals: [  0.      0.989   0.991  39.6  ]
+Column: f_34
+        CAIM Value: 882.484472
+        Intervals: [  0.      0.994   0.995  39.6  ]
+Column: f_35
+        CAIM Value: 895.508580
+        Intervals: [  0.      0.994   0.997  39.6  ]
+Column: f_36
+        CAIM Value: 861.651704
+        Intervals: [  0.      0.94    0.998  39.6  ]
+Column: f_37
+        CAIM Value: 902.797791
+        Intervals: [  0.      0.909   0.999  39.6  ]
+Column: f_38
+        CAIM Value: 636.003727
+        Intervals: [  0.      0.994   0.999  39.6  ]
+Column: f_39
+        CAIM Value: 508.461071
+        Intervals: [  0.      0.986   0.999  39.6  ]
+Column: f_4
+        CAIM Value: 777.584881
+        Intervals: [  0.00000000e+00   3.70000000e-05   1.54000000e-04   3.97000
+000e+01]
+Column: f_40
+        CAIM Value: 496.013601
+        Intervals: [  0.      0.982   0.999  39.6  ]
+Column: f_41
+        CAIM Value: 862.908814
+        Intervals: [  0.00000000e+00   8.20000000e-05   3.22000000e-04   3.96000
+000e+01]
+Column: f_42
+        CAIM Value: 859.406803
+        Intervals: [  0.00000000e+00   7.40000000e-05   3.25000000e-04   3.96000
+000e+01]
+Column: f_43
+        CAIM Value: 635.317330
+        Intervals: [  0.00000000e+00   1.72000000e-04   7.73000000e-03   3.60000
+000e+02]
+Column: f_44
+        CAIM Value: 641.257099
+        Intervals: [  0.00000000e+00   3.90000000e-05   2.98000000e-04   3.96000
+000e+01]
+Column: f_45
+        CAIM Value: 500.897389
+        Intervals: [ -4.07000000e-02  -6.50000000e-05   4.74000000e-04   3.96000
+000e+01]
+Column: f_46
+        CAIM Value: 500.897389
+        Intervals: [ -4.07000000e-02  -6.50000000e-05   4.74000000e-04   3.96000
+000e+01]
+Column: f_47
+        CAIM Value: 544.208602
+        Intervals: [  0.00000000e+00   1.01000000e-04   2.33000000e-04   3.96000
+000e+01]
+Column: f_48
+        CAIM Value: 603.843090
+        Intervals: [  0.00000000e+00   8.90000000e-05   7.59000000e-03   3.60000
+000e+02]
+Column: f_49
+        CAIM Value: 607.209354
+        Intervals: [ -3.60000000e+02  -7.19000000e-03  -8.70000000e-05   3.96000
+000e+01]
+Column: f_5
+        CAIM Value: 833.530745
+        Intervals: [  0.00000000e+00   5.10000000e-05   7.50000000e-05   3.97000
+000e+01]
+Column: f_50
+        CAIM Value: 604.510231
+        Intervals: [  0.00000000e+00   9.10000000e-05   7.59000000e-03   3.60000
+000e+02]
+Column: f_51
+        CAIM Value: 561.017825
+        Intervals: [  0.00000000e+00   1.60000000e-05   6.49000000e-04   3.96000
+000e+01]
+Column: f_52
+        CAIM Value: 541.903133
+        Intervals: [  0.00000000e+00   7.20000000e-05   6.44000000e-04   3.96000
+000e+01]
+Column: f_53
+        CAIM Value: 545.868896
+        Intervals: [ -1.78000000e-01  -2.47000000e-04  -1.08000000e-04   3.96000
+000e+01]
+Column: f_54
+        CAIM Value: 518.792305
+        Intervals: [  0.00000000e+00   1.84000000e-04   5.08000000e-04   3.96000
+000e+01]
+Column: f_55
+        CAIM Value: 521.319096
+        Intervals: [  0.00000000e+00   3.47000000e-04   9.65000000e-04   3.96000
+000e+01]
+Column: f_56
+        CAIM Value: 575.969429
+        Intervals: [  0.00000000e+00   1.25000000e-04   1.34000000e-02   5.41000
+000e+02]
+Column: f_57
+        CAIM Value: 549.426264
+        Intervals: [  0.00000000e+00   5.81000000e-04   1.26000000e-02   3.96000
+000e+01]
+Column: f_58
+        CAIM Value: 682.429701
+        Intervals: [  0.      0.97    0.981  39.6  ]
+Column: f_59
+        CAIM Value: 678.938033
+        Intervals: [  0.      0.968   0.98   39.6  ]
+Column: f_6
+        CAIM Value: 889.535442
+        Intervals: [  0.00000000e+00   8.60000000e-05   2.11000000e-04   3.97000
+000e+01]
+Column: f_60
+        CAIM Value: 501.940981
+        Intervals: [  0.      0.732   0.979  39.6  ]
+Column: f_61
+        CAIM Value: 574.675022
+        Intervals: [  0.00000000e+00   1.24000000e-03   6.32000000e-02   3.96000
+000e+01]
+Column: f_62
+        CAIM Value: 620.696673
+        Intervals: [  0.       0.0563   0.09    39.6   ]
+Column: f_63
+        CAIM Value: 908.457007
+        Intervals: [     0.    189.   1030.  73100.]
+Column: f_64
+        CAIM Value: 1022.494576
+        Intervals: [  0.00000000e+00   1.84000000e-02   4.71000000e-02   7.21000
+000e+02]
+Column: f_65
+        CAIM Value: 611.892839
+        Intervals: [   0.      6.35   13.    638.  ]
+Column: f_66
+        CAIM Value: 512.513686
+        Intervals: [  0.   27.4  31.6  45.8]
+Column: f_67
+        CAIM Value: 506.091148
+        Intervals: [  0.   23.7  34.3  41.3]
+Column: f_68
+        CAIM Value: 743.081917
+        Intervals: [  0.00000000e+00   1.88000000e-03   3.96000000e+01]
+Column: f_69
+        CAIM Value: 743.081917
+        Intervals: [  0.    0.5  39.6]
+Column: f_7
+        CAIM Value: 948.966872
+        Intervals: [  0.00000000e+00   1.06000000e-04   5.13000000e-04   3.97000
+000e+01]
+Column: f_70
+        CAIM Value: 614.079972
+        Intervals: [     0.    383.    768.  38300.]
+Column: f_71
+        CAIM Value: 504.724228
+        Intervals: [  0.    1.    4.   39.6]
+Column: f_72
+        CAIM Value: 612.693825
+        Intervals: [     0.    378.    772.  38300.]
+Column: f_73
+        CAIM Value: 507.812151
+        Intervals: [  0.     1.02   1.09  39.6 ]
+Column: f_74
+        CAIM Value: 851.644986
+        Intervals: [      0.    3080.   11800.  565000.]
+Column: f_75
+        CAIM Value: 1009.716964
+        Intervals: [  0.00000000e+00   2.13000000e+01   5.41000000e+01   2.82000
+000e+04]
+Column: f_76
+        CAIM Value: 577.682492
+        Intervals: [  0.      0.961   0.99   39.6  ]
+Column: f_77
+        CAIM Value: 677.354933
+        Intervals: [  0.00000000e+00   5.00000000e-07   2.20000000e-05   1.30000
+000e+05]
+Column: f_8
+        CAIM Value: 983.596675
+        Intervals: [  0.00000000e+00   1.24000000e-04   5.66000000e-04   3.97000
+000e+01]
+Column: f_9
+        CAIM Value: 977.478080
+        Intervals: [  0.00000000e+00   1.53000000e-04   7.54000000e-04   3.97000
+000e+01]
